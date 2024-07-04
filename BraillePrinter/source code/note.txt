@@ -1,0 +1,4 @@
+Da bi se korektno instalirao pristup programu preko desktop aplikacije na nekom novom Raspberry Pi-u potrebno je prebaciti se u direktorij gdje se nalazi main.py u terminalu. Zatim, potrebno je izvršiti sljedeću naredbu:
+sudo chmod +x main.py
+
+Ovi fajlovi su se izvorno nalazili na desktopu. Ukoliko dođe do promjene lokacije fajlova, potrebno je otvoriti BraillePrinter.desktop preko text editora i unijeti ispravnu putanju kad executable file-u

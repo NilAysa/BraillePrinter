@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Braille Printer
+Comment=Program for printing braille letters
+Exec=/home/pi/Desktop/RK3/main.py
+Icon=/home/pi/Desktop/RK3/BPlogo.ico
+Terminal=false
+Type=Application
